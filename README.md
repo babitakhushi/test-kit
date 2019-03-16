@@ -1,2 +1,2 @@
-# test-kit
+# test-git
 this is for learning
